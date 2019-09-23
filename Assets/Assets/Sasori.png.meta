@@ -1,0 +1,8067 @@
+fileFormatVersion: 2
+guid: 96e57402d6b0e0a48b7e2896bd5828c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8352799535453317052
+    second: Sasori_0
+  - first:
+      213: 9121849358748977718
+    second: Sasori_1
+  - first:
+      213: -3144050644100824831
+    second: Sasori_2
+  - first:
+      213: -7363321168510189557
+    second: Sasori_3
+  - first:
+      213: 1731568311143392246
+    second: Sasori_4
+  - first:
+      213: -4273750214456967233
+    second: Sasori_5
+  - first:
+      213: 6296211052938072684
+    second: Sasori_6
+  - first:
+      213: -1978140262156211467
+    second: Sasori_7
+  - first:
+      213: -3341726423447656549
+    second: Sasori_8
+  - first:
+      213: 1571082417679980597
+    second: Sasori_9
+  - first:
+      213: -640118440083888121
+    second: Sasori_10
+  - first:
+      213: 3631419960273356320
+    second: Sasori_11
+  - first:
+      213: -2254152060877834676
+    second: Sasori_12
+  - first:
+      213: -2178312543773022517
+    second: Sasori_13
+  - first:
+      213: 8426223120634937513
+    second: Sasori_14
+  - first:
+      213: -5441551447486699227
+    second: Sasori_15
+  - first:
+      213: -6354125221342051041
+    second: Sasori_16
+  - first:
+      213: 3119688399853952734
+    second: Sasori_17
+  - first:
+      213: 2588030727827027592
+    second: Sasori_18
+  - first:
+      213: -5449850376920371840
+    second: Sasori_19
+  - first:
+      213: -2407655782585880329
+    second: Sasori_20
+  - first:
+      213: -5859596564083755979
+    second: Sasori_21
+  - first:
+      213: 1696161975513948667
+    second: Sasori_22
+  - first:
+      213: -8326746015138274220
+    second: Sasori_23
+  - first:
+      213: -1819137244629481268
+    second: Sasori_24
+  - first:
+      213: -5312228160259702508
+    second: Sasori_25
+  - first:
+      213: 2838998449501198227
+    second: Sasori_26
+  - first:
+      213: -3668059686951684348
+    second: Sasori_27
+  - first:
+      213: 2669767512787413468
+    second: Sasori_28
+  - first:
+      213: 6645825857727786202
+    second: Sasori_29
+  - first:
+      213: 7540900191464104003
+    second: Sasori_30
+  - first:
+      213: -6381611805319520513
+    second: Sasori_31
+  - first:
+      213: 7218452221578660755
+    second: Sasori_32
+  - first:
+      213: -747108509704289690
+    second: Sasori_33
+  - first:
+      213: -6549646147369556265
+    second: Sasori_34
+  - first:
+      213: -2861570087786721945
+    second: Sasori_35
+  - first:
+      213: 3459769540015355911
+    second: Sasori_36
+  - first:
+      213: -6203944925538374755
+    second: Sasori_37
+  - first:
+      213: 4453093187243039938
+    second: Sasori_38
+  - first:
+      213: -6336182730131536698
+    second: Sasori_39
+  - first:
+      213: -6039181467169846386
+    second: Sasori_40
+  - first:
+      213: 5166892082845887429
+    second: Sasori_41
+  - first:
+      213: -8756220083571498876
+    second: Sasori_42
+  - first:
+      213: -7543639708996916885
+    second: Sasori_43
+  - first:
+      213: -395401489484770975
+    second: Sasori_44
+  - first:
+      213: 6915647136061636558
+    second: Sasori_45
+  - first:
+      213: -1300128604538659260
+    second: Sasori_46
+  - first:
+      213: 3214909826048924085
+    second: Sasori_47
+  - first:
+      213: -7381195471224820875
+    second: Sasori_48
+  - first:
+      213: -854710746479095643
+    second: Sasori_49
+  - first:
+      213: 8651192748470620994
+    second: Sasori_50
+  - first:
+      213: -191117554145744490
+    second: Sasori_51
+  - first:
+      213: 1861954455051343216
+    second: Sasori_52
+  - first:
+      213: -1584238175588225498
+    second: Sasori_53
+  - first:
+      213: 6879774119366369477
+    second: Sasori_54
+  - first:
+      213: 2300134492488123673
+    second: Sasori_55
+  - first:
+      213: -7765413667584883161
+    second: Sasori_56
+  - first:
+      213: 1651881628710462599
+    second: Sasori_57
+  - first:
+      213: -6928595384540897593
+    second: Sasori_58
+  - first:
+      213: -6453050383970942759
+    second: Sasori_59
+  - first:
+      213: 6600594103891162824
+    second: Sasori_60
+  - first:
+      213: 3415862755341484501
+    second: Sasori_61
+  - first:
+      213: -1045104529653145509
+    second: Sasori_62
+  - first:
+      213: 5030036105110014877
+    second: Sasori_63
+  - first:
+      213: -4670925097550078944
+    second: Sasori_64
+  - first:
+      213: 4370636542125129071
+    second: Sasori_65
+  - first:
+      213: 3746656463873952347
+    second: Sasori_66
+  - first:
+      213: -8939049136236395162
+    second: Sasori_67
+  - first:
+      213: 145410435196806909
+    second: Sasori_68
+  - first:
+      213: -2040592448949422341
+    second: Sasori_69
+  - first:
+      213: -3809628118965888166
+    second: Sasori_70
+  - first:
+      213: -3553042927825292069
+    second: Sasori_71
+  - first:
+      213: -4090275129113883422
+    second: Sasori_72
+  - first:
+      213: 806585580688445961
+    second: Sasori_73
+  - first:
+      213: -7200205867892745878
+    second: Sasori_74
+  - first:
+      213: 5325212781623379320
+    second: Sasori_75
+  - first:
+      213: 2428061469949139978
+    second: Sasori_76
+  - first:
+      213: -7346845638230642179
+    second: Sasori_77
+  - first:
+      213: -8525077113521136891
+    second: Sasori_78
+  - first:
+      213: -4065627150122616491
+    second: Sasori_79
+  - first:
+      213: 3540694261023894202
+    second: Sasori_80
+  - first:
+      213: -6726087921336017094
+    second: Sasori_81
+  - first:
+      213: -6219678218685596755
+    second: Sasori_82
+  - first:
+      213: 8275403753737419360
+    second: Sasori_83
+  - first:
+      213: 2532767221061210424
+    second: Sasori_84
+  - first:
+      213: -73420383440672131
+    second: Sasori_85
+  - first:
+      213: -3951084802107269246
+    second: Sasori_86
+  - first:
+      213: 7520235981901644775
+    second: Sasori_87
+  - first:
+      213: -6490612370710015650
+    second: Sasori_88
+  - first:
+      213: -1302499179567883902
+    second: Sasori_89
+  - first:
+      213: -62051523446028396
+    second: Sasori_90
+  - first:
+      213: 4311779080876041084
+    second: Sasori_91
+  - first:
+      213: 6605395752949260528
+    second: Sasori_92
+  - first:
+      213: -3057141585292664809
+    second: Sasori_93
+  - first:
+      213: -2157818238283524673
+    second: Sasori_94
+  - first:
+      213: -5945035562163457305
+    second: Sasori_95
+  - first:
+      213: -9125984742881036963
+    second: Sasori_96
+  - first:
+      213: -1969060733920814608
+    second: Sasori_97
+  - first:
+      213: 1727033793206199549
+    second: Sasori_98
+  - first:
+      213: 3644119892692983679
+    second: Sasori_99
+  - first:
+      213: 2745925400296759656
+    second: Sasori_100
+  - first:
+      213: -1182545500861979368
+    second: Sasori_101
+  - first:
+      213: -8425982157786963371
+    second: Sasori_102
+  - first:
+      213: -3163267890854558459
+    second: Sasori_103
+  - first:
+      213: 1314644269424397625
+    second: Sasori_104
+  - first:
+      213: 2191135412888375938
+    second: Sasori_105
+  - first:
+      213: 1258203559684403228
+    second: Sasori_106
+  - first:
+      213: 6835805052871327246
+    second: Sasori_107
+  - first:
+      213: -897063416854007185
+    second: Sasori_108
+  - first:
+      213: 5038617003754022779
+    second: Sasori_109
+  - first:
+      213: -8626680723645727108
+    second: Sasori_110
+  - first:
+      213: -5055698612450715414
+    second: Sasori_111
+  - first:
+      213: -4577006708897357436
+    second: Sasori_112
+  - first:
+      213: 5499182646671019201
+    second: Sasori_113
+  - first:
+      213: -5931918212991503403
+    second: Sasori_114
+  - first:
+      213: 5998523086350440752
+    second: Sasori_115
+  - first:
+      213: -6766923295551686140
+    second: Sasori_116
+  - first:
+      213: 7800490974845004806
+    second: Sasori_117
+  - first:
+      213: 2419386096287041709
+    second: Sasori_118
+  - first:
+      213: 3706786329471837960
+    second: Sasori_119
+  - first:
+      213: -1149805848163487079
+    second: Sasori_120
+  - first:
+      213: -5717149821550522567
+    second: Sasori_121
+  - first:
+      213: -1330195226857074348
+    second: Sasori_122
+  - first:
+      213: 7620523539740884855
+    second: Sasori_123
+  - first:
+      213: 2954807144237348911
+    second: Sasori_124
+  - first:
+      213: -4974939863875283669
+    second: Sasori_125
+  - first:
+      213: 772675177898403628
+    second: Sasori_126
+  - first:
+      213: -5537079191443935913
+    second: Sasori_127
+  - first:
+      213: -7368672183236450846
+    second: Sasori_128
+  - first:
+      213: 2646158481103096753
+    second: Sasori_129
+  - first:
+      213: -8218447683842344515
+    second: Sasori_130
+  - first:
+      213: -1047766691012620455
+    second: Sasori_131
+  - first:
+      213: 370324152036972141
+    second: Sasori_132
+  - first:
+      213: -321660615362692859
+    second: Sasori_133
+  - first:
+      213: -571331638708974194
+    second: Sasori_134
+  - first:
+      213: 884308168312867404
+    second: Sasori_135
+  - first:
+      213: -6400998048944315683
+    second: Sasori_136
+  - first:
+      213: -261076961272464617
+    second: Sasori_137
+  - first:
+      213: 4208446456936915070
+    second: Sasori_138
+  - first:
+      213: 9037215404335145277
+    second: Sasori_139
+  - first:
+      213: 5083631792735188239
+    second: Sasori_140
+  - first:
+      213: 1199278277815173702
+    second: Sasori_141
+  - first:
+      213: 5559142680179299527
+    second: Sasori_142
+  - first:
+      213: 259797239662236248
+    second: Sasori_143
+  - first:
+      213: -5523565670980383266
+    second: Sasori_144
+  - first:
+      213: -5251202794909842846
+    second: Sasori_145
+  - first:
+      213: 8869189557266351708
+    second: Sasori_146
+  - first:
+      213: -7947750528254900751
+    second: Sasori_147
+  - first:
+      213: -7708272048121808044
+    second: Sasori_148
+  - first:
+      213: -4156441796935358908
+    second: Sasori_149
+  - first:
+      213: -7147465291963305525
+    second: Sasori_150
+  - first:
+      213: -2773328310034471627
+    second: Sasori_151
+  - first:
+      213: -3843332672853610015
+    second: Sasori_152
+  - first:
+      213: 4314741115598224779
+    second: Sasori_153
+  - first:
+      213: -6946643834517481465
+    second: Sasori_154
+  - first:
+      213: 3255131710718171413
+    second: Sasori_155
+  - first:
+      213: 2513608249400784055
+    second: Sasori_156
+  - first:
+      213: 6669837268049324817
+    second: Sasori_157
+  - first:
+      213: -6418917692912458069
+    second: Sasori_158
+  - first:
+      213: 4814606706471411683
+    second: Sasori_159
+  - first:
+      213: 2605599252175122001
+    second: Sasori_160
+  - first:
+      213: 6362188866237078609
+    second: Sasori_161
+  - first:
+      213: 7464804900780035940
+    second: Sasori_162
+  - first:
+      213: -2913541905360983251
+    second: Sasori_163
+  - first:
+      213: 7594378424034056326
+    second: Sasori_164
+  - first:
+      213: 1424703181223549756
+    second: Sasori_165
+  - first:
+      213: 1843498171547783006
+    second: Sasori_166
+  - first:
+      213: 449301207572266653
+    second: Sasori_167
+  - first:
+      213: 4756563278054962399
+    second: Sasori_168
+  - first:
+      213: -8269559619992735802
+    second: Sasori_169
+  - first:
+      213: -5143342252793605370
+    second: Sasori_170
+  - first:
+      213: 2574486577302547635
+    second: Sasori_171
+  - first:
+      213: -8376527226564430219
+    second: Sasori_172
+  - first:
+      213: 4315639132771895878
+    second: Sasori_173
+  - first:
+      213: -151250923038997801
+    second: Sasori_174
+  - first:
+      213: 6488474033260678568
+    second: Sasori_175
+  - first:
+      213: 7834266383876774579
+    second: Sasori_176
+  - first:
+      213: 5782378307840946269
+    second: Sasori_177
+  - first:
+      213: 5141495351834789694
+    second: Sasori_178
+  - first:
+      213: 7451122200124771920
+    second: Sasori_179
+  - first:
+      213: 9143860990466791741
+    second: Sasori_180
+  - first:
+      213: 5443873311870200264
+    second: Sasori_181
+  - first:
+      213: -3316296522053495558
+    second: Sasori_182
+  - first:
+      213: 4794724581563799060
+    second: Sasori_183
+  - first:
+      213: -608758889455340235
+    second: Sasori_184
+  - first:
+      213: -2394106949416501525
+    second: Sasori_185
+  - first:
+      213: 9192184731501562449
+    second: Sasori_186
+  - first:
+      213: 3981050201726853931
+    second: Sasori_187
+  - first:
+      213: 6969537511790389597
+    second: Sasori_188
+  - first:
+      213: -4582580539208994695
+    second: Sasori_189
+  - first:
+      213: 3892344763577147555
+    second: Sasori_190
+  - first:
+      213: -3125901480296808506
+    second: Sasori_191
+  - first:
+      213: -8673358881459971961
+    second: Sasori_192
+  - first:
+      213: -8265310935377748178
+    second: Sasori_193
+  - first:
+      213: 7733986199369804663
+    second: Sasori_194
+  - first:
+      213: -7662619260803561832
+    second: Sasori_195
+  - first:
+      213: 196089739576452363
+    second: Sasori_196
+  - first:
+      213: -7992558937035087303
+    second: Sasori_197
+  - first:
+      213: -71978811952519091
+    second: Sasori_198
+  - first:
+      213: 1408267365531860094
+    second: Sasori_199
+  - first:
+      213: -6117554495535360674
+    second: Sasori_200
+  - first:
+      213: 3106040012114393330
+    second: Sasori_201
+  - first:
+      213: 3727916132469203645
+    second: Sasori_202
+  - first:
+      213: 7513577853774325634
+    second: Sasori_203
+  - first:
+      213: 7144243498370007629
+    second: Sasori_204
+  - first:
+      213: -5564437481399333286
+    second: Sasori_205
+  - first:
+      213: -4862356634801473032
+    second: Sasori_206
+  - first:
+      213: -8522694160727007393
+    second: Sasori_207
+  - first:
+      213: -1635702356151787792
+    second: Sasori_208
+  - first:
+      213: -1234840532516277103
+    second: Sasori_209
+  - first:
+      213: 5270871035916930927
+    second: Sasori_210
+  - first:
+      213: 4420175441566951607
+    second: Sasori_211
+  - first:
+      213: 6467603024655734367
+    second: Sasori_212
+  - first:
+      213: -859061409437668828
+    second: Sasori_213
+  - first:
+      213: -4685497251891872860
+    second: Sasori_214
+  - first:
+      213: 5165585894193030362
+    second: Sasori_215
+  - first:
+      213: -8237074903585973934
+    second: Sasori_216
+  - first:
+      213: 2166207586778078330
+    second: Sasori_217
+  - first:
+      213: 5953242332207379064
+    second: Sasori_218
+  - first:
+      213: -7718017929302638871
+    second: Sasori_219
+  - first:
+      213: 8318856619855718544
+    second: Sasori_220
+  - first:
+      213: -4448062867818894311
+    second: Sasori_221
+  - first:
+      213: 1522950586823549204
+    second: Sasori_222
+  - first:
+      213: -4517850154822944118
+    second: Sasori_223
+  - first:
+      213: 5076682448434163982
+    second: Sasori_224
+  - first:
+      213: -5795210205756432815
+    second: Sasori_225
+  - first:
+      213: 7860717821046456427
+    second: Sasori_226
+  - first:
+      213: 37153772850710948
+    second: Sasori_227
+  - first:
+      213: -8716266514737775805
+    second: Sasori_228
+  - first:
+      213: -7993686939809336874
+    second: Sasori_229
+  - first:
+      213: 3422451956638798207
+    second: Sasori_230
+  - first:
+      213: -1575367020783375030
+    second: Sasori_231
+  - first:
+      213: 7809329854955192142
+    second: Sasori_232
+  - first:
+      213: -8266355023675690851
+    second: Sasori_233
+  - first:
+      213: -8141761230728224940
+    second: Sasori_234
+  - first:
+      213: -1253517118963115426
+    second: Sasori_235
+  - first:
+      213: -225348783884102043
+    second: Sasori_236
+  - first:
+      213: -1684390165867635284
+    second: Sasori_237
+  - first:
+      213: -2525061446605088057
+    second: Sasori_238
+  - first:
+      213: -3837367499096921145
+    second: Sasori_239
+  - first:
+      213: -4268758422631518078
+    second: Sasori_240
+  - first:
+      213: 759940314673902157
+    second: Sasori_241
+  - first:
+      213: -4384143503923270164
+    second: Sasori_242
+  - first:
+      213: 1140953391840875320
+    second: Sasori_243
+  - first:
+      213: -978355689115511294
+    second: Sasori_244
+  - first:
+      213: -3918511174713033459
+    second: Sasori_245
+  - first:
+      213: -8091711686703823360
+    second: Sasori_246
+  - first:
+      213: -8871841927401385999
+    second: Sasori_247
+  - first:
+      213: 1945247365212890462
+    second: Sasori_248
+  - first:
+      213: 8234594431802022675
+    second: Sasori_249
+  - first:
+      213: -6715004586380044855
+    second: Sasori_250
+  - first:
+      213: -1344417414359609489
+    second: Sasori_251
+  - first:
+      213: -3484907563911131815
+    second: Sasori_252
+  - first:
+      213: 8674152065192971252
+    second: Sasori_253
+  - first:
+      213: -3004354069933897458
+    second: Sasori_254
+  - first:
+      213: -7357747839825637340
+    second: Sasori_255
+  - first:
+      213: 1043146961867625385
+    second: Sasori_256
+  - first:
+      213: -8074570951803379615
+    second: Sasori_257
+  - first:
+      213: 3802231767902604241
+    second: Sasori_258
+  - first:
+      213: 7077802693474035603
+    second: Sasori_259
+  - first:
+      213: -8717212245507317008
+    second: Sasori_260
+  - first:
+      213: 7971979147059135636
+    second: Sasori_261
+  - first:
+      213: 989744337282511864
+    second: Sasori_262
+  - first:
+      213: 3448443535046585100
+    second: Sasori_263
+  - first:
+      213: -1090952965763164578
+    second: Sasori_264
+  - first:
+      213: -1582500235900304140
+    second: Sasori_265
+  - first:
+      213: -7390504017695919958
+    second: Sasori_266
+  - first:
+      213: -4018508880888835388
+    second: Sasori_267
+  - first:
+      213: -6339346560600187819
+    second: Sasori_268
+  - first:
+      213: -1061779999027239442
+    second: Sasori_269
+  - first:
+      213: 6865878803407059952
+    second: Sasori_270
+  - first:
+      213: -5274011351499196719
+    second: Sasori_271
+  - first:
+      213: -2299132827703633079
+    second: Sasori_272
+  - first:
+      213: 7623403149715298989
+    second: Sasori_273
+  - first:
+      213: 7708327188105064508
+    second: Sasori_274
+  - first:
+      213: 6423078593408758362
+    second: Sasori_275
+  - first:
+      213: -7262851694395103057
+    second: Sasori_276
+  - first:
+      213: -7268345836924614302
+    second: Sasori_277
+  - first:
+      213: -5906696927222127079
+    second: Sasori_278
+  - first:
+      213: 1655474272526822290
+    second: Sasori_279
+  - first:
+      213: -565963856230325789
+    second: Sasori_280
+  - first:
+      213: 8106444217287760571
+    second: Sasori_281
+  - first:
+      213: 5411811914002394482
+    second: Sasori_282
+  - first:
+      213: -645760056897991598
+    second: Sasori_283
+  - first:
+      213: -9164659038470506468
+    second: Sasori_284
+  - first:
+      213: 7865855190731858628
+    second: Sasori_285
+  - first:
+      213: -1964533146989771692
+    second: Sasori_286
+  - first:
+      213: -3772296177886782546
+    second: Sasori_287
+  - first:
+      213: -4805859131003324607
+    second: Sasori_288
+  - first:
+      213: 4020279991647088551
+    second: Sasori_289
+  - first:
+      213: 7974496630276469613
+    second: Sasori_290
+  - first:
+      213: 5905564911670020891
+    second: Sasori_291
+  - first:
+      213: 3142113067867639705
+    second: Sasori_292
+  - first:
+      213: -2637497196171664874
+    second: Sasori_293
+  - first:
+      213: -5665689018029112602
+    second: Sasori_294
+  - first:
+      213: -5192433938352081632
+    second: Sasori_295
+  - first:
+      213: -6325779898035826083
+    second: Sasori_296
+  - first:
+      213: 3373630306697408685
+    second: Sasori_297
+  - first:
+      213: -7414594852840941738
+    second: Sasori_298
+  - first:
+      213: -5653108511668775501
+    second: Sasori_299
+  - first:
+      213: 7019829618497048671
+    second: Sasori_300
+  - first:
+      213: -4068181731609238124
+    second: Sasori_301
+  - first:
+      213: 7245518717828167399
+    second: Sasori_302
+  - first:
+      213: -3046645710904501200
+    second: Sasori_303
+  - first:
+      213: 4252668563340869285
+    second: Sasori_304
+  - first:
+      213: -4779925834994881092
+    second: Sasori_305
+  - first:
+      213: 1554048553053738441
+    second: Sasori_306
+  - first:
+      213: -3780194988718597761
+    second: Sasori_307
+  - first:
+      213: 1655780811494287890
+    second: Sasori_308
+  - first:
+      213: -7941214869126719463
+    second: Sasori_309
+  - first:
+      213: 3736138181208654727
+    second: Sasori_310
+  - first:
+      213: -5807903359394141162
+    second: Sasori_311
+  - first:
+      213: -6928568860789584159
+    second: Sasori_312
+  - first:
+      213: -2592552497100454951
+    second: Sasori_313
+  - first:
+      213: 115009163010481704
+    second: Sasori_314
+  - first:
+      213: -7370487574763902415
+    second: Sasori_315
+  - first:
+      213: 4652278751777962207
+    second: Sasori_316
+  - first:
+      213: -1361045909917315335
+    second: Sasori_317
+  - first:
+      213: -1237374900265932329
+    second: Sasori_318
+  - first:
+      213: 4745718188360622805
+    second: Sasori_319
+  - first:
+      213: 4115509326092267393
+    second: Sasori_320
+  - first:
+      213: -4958423409101635518
+    second: Sasori_321
+  - first:
+      213: -3496583584263628531
+    second: Sasori_322
+  - first:
+      213: 3186486941662608810
+    second: Sasori_323
+  - first:
+      213: 7534276564935941655
+    second: Sasori_324
+  - first:
+      213: -4828170478188727018
+    second: Sasori_325
+  - first:
+      213: -64589770050071533
+    second: Sasori_326
+  - first:
+      213: -7143002206110067714
+    second: Sasori_327
+  - first:
+      213: 3047969524799692159
+    second: Sasori_328
+  - first:
+      213: 8192171042387478503
+    second: Sasori_329
+  - first:
+      213: -1990029121421856541
+    second: Sasori_330
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sasori_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4202
+        width: 115
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1bea5cd9f70ae48a22e035e2fc729d
+      internalID: -8352799535453317052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 4087
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb15935d501469a4b8e17fd7154bec0f
+      internalID: 9121849358748977718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4087
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4b4ed2ff78e7d4a9550a33f6f913a1
+      internalID: -3144050644100824831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 4087
+        width: 47
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b72f03b52e64f4f953d924f2453fc1
+      internalID: -7363321168510189557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 4087
+        width: 49
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369b7889acd1c8549b75ede779e05350
+      internalID: 1731568311143392246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 4087
+        width: 48
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463486795802e234f8ebe43b10bfe1fc
+      internalID: -4273750214456967233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 4087
+        width: 42
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd3dbaf3aab35245bc214d35834c1b8
+      internalID: 6296211052938072684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3962
+        width: 64
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2291f9157219af4c822920c9144989a
+      internalID: -1978140262156211467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3962
+        width: 72
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb007c4f16ddcb44db3648b3e165aec1
+      internalID: -3341726423447656549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3962
+        width: 76
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb080e5fd6680143ae44d4ea19668fb
+      internalID: 1571082417679980597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_10
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 3962
+        width: 78
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39562b22de586f46bc4295772af13e9
+      internalID: -640118440083888121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_11
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3962
+        width: 73
+        height: 72
+      alignment: 9
+      pivot: {x: 0.4311022, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df06bbe9544083c4188c1761e446837c
+      internalID: 3631419960273356320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_12
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3962
+        width: 64
+        height: 81
+      alignment: 9
+      pivot: {x: 0.52020407, y: 0.009066358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff150e379e87884ba3638ccfe3801b9
+      internalID: -2254152060877834676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_13
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 3964
+        width: 40
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32631c33fbb6134bb93d02b1356fa96
+      internalID: -2178312543773022517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_14
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 3964
+        width: 36
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65462b9a77c540e41ba816ecc698c0e4
+      internalID: 8426223120634937513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_15
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 3964
+        width: 46
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8b0b70ca1bb1c4b89fb930c8a541d0
+      internalID: -5441551447486699227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_16
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 3964
+        width: 42
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce4a1308601193479dee496d07ac841
+      internalID: -6354125221342051041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_17
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3954
+        width: 42
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fc2675c64fd794c9a33042db2d6c86
+      internalID: 3119688399853952734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3854
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd873c5cc79dc8468c5d55e12518359
+      internalID: 2588030727827027592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3854
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24c0ebda07c9404a97aeb58c1243784
+      internalID: -5449850376920371840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3858
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17378937b9522354fa299e174e0e44c0
+      internalID: -2407655782585880329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_21
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 3854
+        width: 81
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28856129fbaed504b8f8142916591c1d
+      internalID: -5859596564083755979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3849
+        width: 83
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96725c023b32a3e4b8a4b096863c1fd8
+      internalID: 1696161975513948667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3850
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2ee9b86d2bf7446b4cdb2c71443210
+      internalID: -8326746015138274220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3752
+        width: 57
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4987b825cd6e53144b15dfe04953bfcd
+      internalID: -1819137244629481268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3752
+        width: 89
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36bd2c3f60382f84db3ad8f7c2ae20a6
+      internalID: -5312228160259702508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 3752
+        width: 75
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cfff2e0521d6243a7989dbb0ae2d6e
+      internalID: 2838998449501198227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_27
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3752
+        width: 53
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1751a13c21a9c0458ad38c1f372f133
+      internalID: -3668059686951684348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_28
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3752
+        width: 46
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e1540795382c14db0b9e9ce86a0b73
+      internalID: 2669767512787413468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3752
+        width: 61
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed33e4f0d24249b409c44393f0d1dc67
+      internalID: 6645825857727786202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_30
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 3752
+        width: 95
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52787c40ca279a46b820f0577180603
+      internalID: 7540900191464104003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_31
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3752
+        width: 89
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f025d30bd743f4db2c14c3d5ecce8e
+      internalID: -6381611805319520513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_32
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3752
+        width: 89
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67d0e3dcdf1d1949b57971a254a706a
+      internalID: 7218452221578660755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_33
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 3752
+        width: 90
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678a1ba430b8a454ba3b2d0f573ceb4e
+      internalID: -747108509704289690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_34
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3752
+        width: 89
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262b79fb04b0a9e49838fe03eaa2f3d3
+      internalID: -6549646147369556265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_35
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 3752
+        width: 57
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbcc25ce13006948a96f76001df352c
+      internalID: -2861570087786721945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3682
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d96267f84f59264b96aa48879d5aeea
+      internalID: 3459769540015355911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_37
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3682
+        width: 106
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d090649d17f3542acf89861a6953fe
+      internalID: -6203944925538374755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_38
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3682
+        width: 125
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f096134c9c09ed9448a23c373cd4f28b
+      internalID: 4453093187243039938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_39
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3682
+        width: 125
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33001ce47fcb06649aafcbbc631e7629
+      internalID: -6336182730131536698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_40
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3682
+        width: 127
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79e4c4cee56d9a4cb87219ae1ded019
+      internalID: -6039181467169846386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_41
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3680
+        width: 127
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef5241c0c09d0344b75f08b04e802ca
+      internalID: 5166892082845887429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_42
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 3682
+        width: 127
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a323d2f80633c4db7606083dd78b3d
+      internalID: -8756220083571498876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_43
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 3682
+        width: 126
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005b510fca6ad18449b420e72470103e
+      internalID: -7543639708996916885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_44
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3595
+        width: 127
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a925e1a9a91794282462a30b3dee4c
+      internalID: -395401489484770975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_45
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3597
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd210348f31d4df4eac1a55a97e71b24
+      internalID: 6915647136061636558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_46
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3626
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f5dfaf92dbba147a57bd33e1822ce8
+      internalID: -1300128604538659260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_47
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3597
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652f68f1fbbc75748b9a5f96401c8242
+      internalID: 3214909826048924085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 3626
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fa6e20b353a6747ac5f53d5d48dbc6
+      internalID: -7381195471224820875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_49
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3597
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ad65ac595e566428e2def531468d00
+      internalID: -854710746479095643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_50
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3463
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cea3354d227d341898445634df59ae
+      internalID: 8651192748470620994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3463
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061cefe7e0990ad4d8fb0f1d3d87c3f0
+      internalID: -191117554145744490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_52
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3463
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b4c921f43d0ff43947d0ef8e98908f
+      internalID: 1861954455051343216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3463
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8741fc180ea3044fb7cce0a69bc8a3e
+      internalID: -1584238175588225498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_54
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3463
+        width: 46
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d4da2e740eabc49a4ddeb875ec9c43
+      internalID: 6879774119366369477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_55
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3463
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42601b1097db64449bc35ebe8d00ef8d
+      internalID: 2300134492488123673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_56
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 3463
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8661dfbb27bd62843869e2c89911ba73
+      internalID: -7765413667584883161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_57
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 3463
+        width: 42
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be44365cdb6e41429794d88ae9d67a1
+      internalID: 1651881628710462599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_58
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 3463
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6774d7991f4dd1f40b33d004f17ada33
+      internalID: -6928595384540897593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_59
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3463
+        width: 87
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162d90e5f25bf8a4cbb2ace44418248d
+      internalID: -6453050383970942759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_60
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 3463
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bf09e0596d24547a12484ab200f779
+      internalID: 6600594103891162824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_61
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3463
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c6696cdb6a70f4191c00845b482776
+      internalID: 3415862755341484501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_62
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 3463
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd953bd30746a534f942ec178d55929a
+      internalID: -1045104529653145509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3352
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead1959b4d70a014aae1f8d538fa0d9c
+      internalID: 5030036105110014877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3352
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebc420328945a94494ee73c2964be03
+      internalID: -4670925097550078944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_65
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3354
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df482d4fb5baed46a7fb4a0847d7185
+      internalID: 4370636542125129071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_66
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3354
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f464f5552fb1a8946b7e95ac7c280b6b
+      internalID: 3746656463873952347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_67
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3354
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2659d2c395a3f6241a6551e42b21276f
+      internalID: -8939049136236395162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_68
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 3354
+        width: 69
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdae9e3ec100c1840a7b0adbd24c4a7d
+      internalID: 145410435196806909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_69
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3354
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e63ecb6cd637b45ba50ef58f1b9b5a
+      internalID: -2040592448949422341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_70
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3354
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697b006e4b068bc4ea02ca8e6e2eb275
+      internalID: -3809628118965888166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_71
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 3354
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c8d74be30eb4547842911690e78651
+      internalID: -3553042927825292069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_72
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3354
+        width: 68
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159a50532cd304c4c89ce349384aa079
+      internalID: -4090275129113883422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_73
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 3354
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f4237271a13f94083e14aef3c0fc19
+      internalID: 806585580688445961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_74
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 3354
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ab90496ae59114a9f06c996dc6489a
+      internalID: -7200205867892745878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_75
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3354
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6c54f939bd1d44a91824dc242644ad
+      internalID: 5325212781623379320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_76
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 3354
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0b7c9f8c4b9cf439d4c6dd35754214
+      internalID: 2428061469949139978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_77
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3276
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9c978b11c6bba4bb2a637341559233
+      internalID: -7346845638230642179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_78
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3276
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b574512b7f51a34eb27b6c26554f0e0
+      internalID: -8525077113521136891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_79
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3276
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096528550387e4c43b5dc9b6013e2229
+      internalID: -4065627150122616491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_80
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3121
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684c4d22ca52eda47a89551f8c33878f
+      internalID: 3540694261023894202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_81
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3121
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4ad5efc31d60549abdfaa5d7af1c5b
+      internalID: -6726087921336017094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_82
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3121
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154c693f76b32c842894f23ff335b676
+      internalID: -6219678218685596755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_83
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3121
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3646d6d859d8c9e46a021051a462ddbc
+      internalID: 8275403753737419360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_84
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 3121
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753dc694321939747b9f402119f28067
+      internalID: 2532767221061210424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_85
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 3121
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a3d9bc8abb8f4b46b3affbfc1aa3e2f
+      internalID: -73420383440672131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_86
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 3121
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69af24982657e6a41bcdcd2e5639b4bc
+      internalID: -3951084802107269246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_87
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 3121
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a212dcdfac750499732283d9854c52
+      internalID: 7520235981901644775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_88
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 3121
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f37cda3fe606f74dbb09c5cebe70281
+      internalID: -6490612370710015650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_89
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3057
+        width: 42
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460b5729a486e0248913df5f224d1a39
+      internalID: -1302499179567883902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_90
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 3049
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b74f61af3b4583489c572396defa0cc
+      internalID: -62051523446028396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_91
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3061
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbf724d1a9bc264d82de6a35b1240a7
+      internalID: 4311779080876041084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_92
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 3063
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2395cca897caa7c43a485ea2d7cba36b
+      internalID: 6605395752949260528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_93
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 3067
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735a9a6c2694a034dac26431c4e551fb
+      internalID: -3057141585292664809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_94
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 3053
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee233c4bf1d68a04fb8a6e683f05ee41
+      internalID: -2157818238283524673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 3050
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd09752c463fa545b7e85bc98c80959
+      internalID: -5945035562163457305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_96
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 3048
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faebd9759868c940871e6e5ededacca
+      internalID: -9125984742881036963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_97
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 3048
+        width: 51
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27345df0a604aa45acca3db5008e90b
+      internalID: -1969060733920814608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_98
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 3057
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237b8a2ae3be08c468e209b0e403cd4e
+      internalID: 1727033793206199549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_99
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3044
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba12b4638e954a74782a67ef48b9a3ee
+      internalID: 3644119892692983679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_100
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3040
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79da51b9dc4a70d46ae044f5cf6e0207
+      internalID: 2745925400296759656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_101
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 3040
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b650fe3fca2f4db49ae98ff5f98a787b
+      internalID: -1182545500861979368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_102
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3040
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1378deb29218dce459205dc44bce975d
+      internalID: -8425982157786963371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_103
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 3057
+        width: 55
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c3c24bf521cf04da7aeaff05c04eb5
+      internalID: -3163267890854558459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_104
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 3057
+        width: 42
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121b5db2a993c2646b87e7a3d5414ef3
+      internalID: 1314644269424397625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_105
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 3057
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259e1d9c19af4c4449be32b9f7f47c61
+      internalID: 2191135412888375938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_106
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 3057
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1637e2f970f5d4c9d9018ddb11c980
+      internalID: 1258203559684403228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_107
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3048
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12382c9122053c54eb67a5bfdfe2b719
+      internalID: 6835805052871327246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_108
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3048
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016441096103e8b4db65862b52eb08e1
+      internalID: -897063416854007185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_109
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 3040
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f95396bfdb30174e97eaf02b2ac13c3
+      internalID: 5038617003754022779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_110
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 3040
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c525aae6472800f4586b895dcb7958ab
+      internalID: -8626680723645727108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_111
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2874
+        width: 221
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64ea45f2c24cc458c7fbca292c3188
+      internalID: -5055698612450715414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_112
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2774
+        width: 63
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c0221f3f6fcc549b676c1cda8ec8d0
+      internalID: -4577006708897357436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_113
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2774
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d33e8e86a78c66459da40404052fd65
+      internalID: 5499182646671019201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_114
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2774
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22810a4c52538e640ad22cb33c9031e6
+      internalID: -5931918212991503403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_115
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2774
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360c1321d26e44e499c466c88562c4ac
+      internalID: 5998523086350440752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_116
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2676
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a25875d7020d44cac24540eea40b5a
+      internalID: -6766923295551686140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_117
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2676
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1b49c7e1a951d45924ff9509a380ac
+      internalID: 7800490974845004806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_118
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2676
+        width: 78
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a149dce7bcdcc44b9293fa458065a7
+      internalID: 2419386096287041709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_119
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2676
+        width: 85
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e433b7bb8fd5c4f8798840341c4bb8
+      internalID: 3706786329471837960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_120
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2676
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9dfc4741932924a84f8c881fd51357
+      internalID: -1149805848163487079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_121
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2676
+        width: 77
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb3459c012a18648b73c86d785e5d3a
+      internalID: -5717149821550522567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_122
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2676
+        width: 74
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d04208409c525b4698afe8092df8877
+      internalID: -1330195226857074348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_123
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 2676
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd7e2c5d7f540a408a0ac2bc419e66c
+      internalID: 7620523539740884855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_124
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2676
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cccc5bb52f64a49a3e4693a5c9813d
+      internalID: 2954807144237348911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_125
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 2676
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3048a637b77d8546a789985f07d4e66
+      internalID: -4974939863875283669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_126
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2572
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c46fa560f7972f4fa6f551783ee976e
+      internalID: 772675177898403628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_127
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2572
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8779fe737e3cf64a9786d7eab8e2870
+      internalID: -5537079191443935913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_128
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2570
+        width: 93
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a11b0c391473046ba33a393a652052
+      internalID: -7368672183236450846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_129
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2570
+        width: 104
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdbf13921f313643b533772a72cd704
+      internalID: 2646158481103096753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_130
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2570
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4fe39df2bef9a429ef1cc4de529e1b
+      internalID: -8218447683842344515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_131
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 2570
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cebd15c601b1004e850c508664cb109
+      internalID: -1047766691012620455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_132
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 2570
+        width: 91
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d08d5e3062d9943a64dbf6feab9d06
+      internalID: 370324152036972141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_133
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2572
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aa37bf266d66b449e71da6f6d46877
+      internalID: -321660615362692859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_134
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2477
+        width: 80
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb9d4ee43319b7489bd71bf475a1e67
+      internalID: -571331638708974194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_135
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2475
+        width: 117
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874b04d1bee422c4cb05ffd348907483
+      internalID: 884308168312867404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_136
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2470
+        width: 117
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ce6cffbc5393248b2550571987996c
+      internalID: -6400998048944315683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_137
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2471
+        width: 104
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b917709970d40e438d02b1f3e47e9a1
+      internalID: -261076961272464617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_138
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2468
+        width: 97
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330bd15519a10b94ebccccba4067fca6
+      internalID: 4208446456936915070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_139
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2472
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83278c96ac20a6445804ca5d3b0e0e4e
+      internalID: 9037215404335145277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_140
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 2473
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13988a05d2e16304c80009474609209f
+      internalID: 5083631792735188239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_141
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2468
+        width: 94
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81542ccb0324c2244a9e98e40801d283
+      internalID: 1199278277815173702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_142
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2468
+        width: 119
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8891c14d1f102a643839e47ee85bced2
+      internalID: 5559142680179299527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_143
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 2477
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcbb62491f224f439950c7717b6a9db
+      internalID: 259797239662236248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_144
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2477
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed4a6cb9cd1d8d45913012c0e10e9b7
+      internalID: -5523565670980383266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_145
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2375
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20fe1cfcd6f52142a896537dd5fc50d
+      internalID: -5251202794909842846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_146
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2371
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5119963160d53d41a8cdd98b0e55e71
+      internalID: 8869189557266351708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_147
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2371
+        width: 87
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec971b0a07b04340860ea2017e0565a
+      internalID: -7947750528254900751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_148
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2373
+        width: 101
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76343c77f8f959f4cbbc020002c6f1d0
+      internalID: -7708272048121808044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_149
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 2371
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cffa9d9fdace1d4995284fbe2173ad0
+      internalID: -4156441796935358908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_150
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2371
+        width: 111
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6f4554494b03644a47bd7b68a3f460
+      internalID: -7147465291963305525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_151
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2373
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de565298c08bbf4982d2a2aef679acc
+      internalID: -2773328310034471627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_152
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2373
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46560e6f8d846724485b60ab7f0d5c5c
+      internalID: -3843332672853610015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_153
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2417
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1ed2bd9164b3f4dbbc7b2f8a3cc938
+      internalID: 4314741115598224779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_154
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2411
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a85aba2c7a9a3a4b826f2f037fd8543
+      internalID: -6946643834517481465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_155
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 2398
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4f50f261aed3f4695e3d2a4c3fbde1
+      internalID: 3255131710718171413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_156
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2379
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf5db9c885496f4e8cff73edff0e12b
+      internalID: 2513608249400784055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_157
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2273
+        width: 76
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4565d9fa7f7e76c4891f310ebbe93de6
+      internalID: 6669837268049324817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_158
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2271
+        width: 91
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64bc069641ffb74292646298ba66d89
+      internalID: -6418917692912458069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_159
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2271
+        width: 94
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d8f68a1d64fe14a9d5dce46e384bb5
+      internalID: 4814606706471411683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_160
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2271
+        width: 115
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e823c33d63fe7064284a8035b3138b57
+      internalID: 2605599252175122001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_161
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 2271
+        width: 121
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747e405016374d849aa5d58535e0a4ab
+      internalID: 6362188866237078609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_162
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2271
+        width: 123
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3d1194dd37ce44aa62451386c50008
+      internalID: 7464804900780035940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_163
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2271
+        width: 102
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac1216a5009ae24cb49d88cd59bbb6f
+      internalID: -2913541905360983251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_164
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2271
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b0b7c0834058743ae8eff3dd9bcfc7
+      internalID: 7594378424034056326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_165
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 2271
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5771e90bab2f2e044906526523d6a314
+      internalID: 1424703181223549756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_166
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2190
+        width: 83
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ea49c96a06efa4fafc1bf36f76acce
+      internalID: 1843498171547783006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_167
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2192
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0498093622ef9aa49bcac06e761e1676
+      internalID: 449301207572266653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_168
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2200
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87438a7053e6e3b408c4ae9e2d94d477
+      internalID: 4756563278054962399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_169
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2199
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43e5c854a4436c4483200fe6ceea895
+      internalID: -8269559619992735802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_170
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2192
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3489b3a013aac574e8af28ceee757cfe
+      internalID: -5143342252793605370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_171
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2177
+        width: 85
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c798a001663260f4d8d5760cf8674ab2
+      internalID: 2574486577302547635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_172
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2192
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694dfb3988c931446978f1d11c60abe3
+      internalID: -8376527226564430219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_173
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2226
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b073bddc97503498d29000aee0e592
+      internalID: 4315639132771895878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_174
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2215
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f236b99d22fb05c4089e71d407833658
+      internalID: -151250923038997801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_175
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 2205
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9d9f697a1d35546a51ade53031d182
+      internalID: 6488474033260678568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_176
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 2205
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6654fb2e6f420984a80372009897825e
+      internalID: 7834266383876774579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_177
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 2194
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676e900e2398fd242ac46a865469908a
+      internalID: 5782378307840946269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_178
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2054
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6355b82c54d34f6438fef422a09583ef
+      internalID: 5141495351834789694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_179
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2054
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da8fb14f73feb044bbc1ce5a3f1bc6d
+      internalID: 7451122200124771920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_180
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2054
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4cd6c3a6e222b499bd199bb36b20ad
+      internalID: 9143860990466791741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_181
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2054
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f806ef3a2548d3d44909aafeb8b2346f
+      internalID: 5443873311870200264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_182
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2054
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42c8b585c867874db2fd49e81b96db7
+      internalID: -3316296522053495558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_183
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2054
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62987e1f6cd893543bd0e1da884d9d0b
+      internalID: 4794724581563799060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_184
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 2054
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a550095b35305343af0b835d722542a
+      internalID: -608758889455340235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_185
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2054
+        width: 41
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceafc54d88b176a41affca589c4d168c
+      internalID: -2394106949416501525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_186
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 2054
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9685d7b9da92bff4a81c3ebc6e23c61a
+      internalID: 9192184731501562449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_187
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 2054
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22fa34d7b3a3c145930b7ec3bde79af
+      internalID: 3981050201726853931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_188
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2054
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacd04f36689cdb47b72ae19d26e3187
+      internalID: 6969537511790389597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_189
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2054
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317904c91393d4645b76393e6014c5ec
+      internalID: -4582580539208994695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_190
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 2054
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4f9e8ae21f3854791b790f82b005ad
+      internalID: 3892344763577147555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_191
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2054
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f575ed8190dd8d84f9cb211b4339b9a4
+      internalID: -3125901480296808506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_192
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 2054
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e265decb5339a44bae04e554544ab6
+      internalID: -8673358881459971961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_193
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2054
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b165b38fb5964ca43ac40085b1728282
+      internalID: -8265310935377748178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_194
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 2054
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b42b0dc95741e54dac74757822afd99
+      internalID: 7733986199369804663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_195
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 2054
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515bae6a5c8a5b34bbf9817d700832b6
+      internalID: -7662619260803561832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_196
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2054
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f66cc9431b7014d9153ae51f6a26b3
+      internalID: 196089739576452363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_197
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1927
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d45c6e9e9e48947a3050bef017791c
+      internalID: -7992558937035087303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_198
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1927
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf8d9db60acb354d873ad14a0f2d74d
+      internalID: -71978811952519091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_199
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1927
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df373f4cce3c1654eb383b9977feccfe
+      internalID: 1408267365531860094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_200
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1927
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f06cb4ff458cd42bd015dde3b5ba90
+      internalID: -6117554495535360674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_201
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1927
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb70e3289ac1804ea794450b87d016f
+      internalID: 3106040012114393330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_202
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1927
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5420a8a7606cb409f7b1a9115f46d4
+      internalID: 3727916132469203645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_203
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1927
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d881df66ae85a4b876807702d9ce23
+      internalID: 7513577853774325634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_204
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1927
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950e279a966a83d4389cc1d791a83f39
+      internalID: 7144243498370007629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_205
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1926
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b943f23635e0e8a4b81dc0373b77ce04
+      internalID: -5564437481399333286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_206
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1928
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7298d76dda0d0849b64bbc2776332fa
+      internalID: -4862356634801473032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_207
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1939
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0453fd355aefcb04a8a00cdcd376e9ff
+      internalID: -8522694160727007393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_208
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1952
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4890d791de21134a986d9bf4b98ae25
+      internalID: -1635702356151787792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_209
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 1965
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42499ace0bafbe47bbf5be5887ffaf8
+      internalID: -1234840532516277103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_210
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1937
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0367259b88197848aabc0afdb93887b
+      internalID: 5270871035916930927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_211
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1763
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e823697b1414264db1babb79cb611eb
+      internalID: 4420175441566951607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_212
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1763
+        width: 89
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbb647cf97394844b840c0c5a63128e
+      internalID: 6467603024655734367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_213
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1761
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63222632107666e4794ffcdd773d0f8d
+      internalID: -859061409437668828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_214
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1763
+        width: 83
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f3356ae4c96124095cb11cd587fea1
+      internalID: -4685497251891872860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_215
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1763
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dad433d080ed84ebe54b54ce9e4663
+      internalID: 5165585894193030362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_216
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1763
+        width: 63
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a296417628018344aacc443c892075c
+      internalID: -8237074903585973934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_217
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1756
+        width: 61
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adfe76857def4946ae30d71e3174c3d
+      internalID: 2166207586778078330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_218
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1756
+        width: 63
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41c3d779c0bab7d4687592fd10489460
+      internalID: 5953242332207379064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_219
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1637
+        width: 72
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e073e3204b4f34f93e35006c9cee25
+      internalID: -7718017929302638871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_220
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1637
+        width: 76
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c0b0085e441364aa00a1825b5a1a92
+      internalID: 8318856619855718544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_221
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1637
+        width: 74
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92663edebbdc58445bdf2f0d4c52ef80
+      internalID: -4448062867818894311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_222
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1637
+        width: 74
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f093edf421d214dbd7141e906c437b
+      internalID: 1522950586823549204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_223
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1655
+        width: 27
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcbe366e8248d014b9b6c809723edb0e
+      internalID: -4517850154822944118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_224
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1654
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eecd3383aaee894c938e4f3c43f96e9
+      internalID: 5076682448434163982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_225
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1648
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11f8d52ea915f846ba4c1cd365a0d43
+      internalID: -5795210205756432815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_226
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1652
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fb0fa7e7db8c34d9631ab921e61e99
+      internalID: 7860717821046456427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_227
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1648
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c786aa622e63f04dbb81509ac47da3f
+      internalID: 37153772850710948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_228
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1650
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444c03f7800b4d74eb37c99e73781a5e
+      internalID: -8716266514737775805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_229
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1652
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7119065514d88ee46b3452492eba7928
+      internalID: -7993686939809336874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_230
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1654
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4375320683afa74697929577887b49e
+      internalID: 3422451956638798207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_231
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1654
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f5cb8055b886548a0b64c0e25985d2
+      internalID: -1575367020783375030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_232
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1654
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d5adcfc9f0b5748b572158eb6b42f0
+      internalID: 7809329854955192142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_233
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1654
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d4fe08fe9710749ba95bc3a8251831
+      internalID: -8266355023675690851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_234
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1654
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141e6c12ae7aace41861b1928e89e876
+      internalID: -8141761230728224940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_235
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1654
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56634be4e9601db4289af627d31c5113
+      internalID: -1253517118963115426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_236
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 1650
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c28c9bf48b9a0246bbc0312aa600401
+      internalID: -225348783884102043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_237
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1650
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d10c86757ed654ea87435aa4c96b96
+      internalID: -1684390165867635284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_238
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1652
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38aac51de5a19c4e8277a990a824652
+      internalID: -2525061446605088057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_239
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1512
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a548d26554eea87439eb561360e7540d
+      internalID: -3837367499096921145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_240
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1510
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03812680aa6792b4f85e0654b74be2e5
+      internalID: -4268758422631518078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_241
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 1508
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738acec2694d68f43ba9ded4036a820c
+      internalID: 759940314673902157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_242
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1512
+        width: 91
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c498e096db8a30242ad61ff994f46e18
+      internalID: -4384143503923270164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_243
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1540
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158f1e5cc849e2645a0e74fc92bad34f
+      internalID: 1140953391840875320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_244
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1535
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9197030b78249e64eaae1139bd5ea449
+      internalID: -978355689115511294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_245
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1537
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c53fb46671d4dd49bfcbfb94012da18
+      internalID: -3918511174713033459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_246
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1540
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4799d56cb265a554bb731233e5e3478f
+      internalID: -8091711686703823360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_247
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1489
+        width: 85
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37de5e7218af9824a9aa789b8505dbf2
+      internalID: -8871841927401385999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_248
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1495
+        width: 117
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c17dba57e831b94cb5bc13123b7da65
+      internalID: 1945247365212890462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_249
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1421
+        width: 100
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cc82281ef3fe746bf221eb6e6b05cb
+      internalID: 8234594431802022675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_250
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1417
+        width: 114
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6490eb05c2c09945b2192ebb4fc3701
+      internalID: -6715004586380044855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_251
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1421
+        width: 121
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02d701a014974b4898bc6136decb4cc
+      internalID: -1344417414359609489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_252
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1421
+        width: 99
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e7fd332d28a014abd843b8103970eb
+      internalID: -3484907563911131815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_253
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1421
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114018b5d9abdec429d4f612e0e7e633
+      internalID: 8674152065192971252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_254
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1421
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4ce5451509a6d4eb5e03a3b28e6f94
+      internalID: -3004354069933897458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_255
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1289
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647ce30e6b63b214f949b918996529f6
+      internalID: -7357747839825637340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_256
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1289
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530a1826d3f6f654d8b5169551d17153
+      internalID: 1043146961867625385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_257
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1289
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff6ea24b755a4d4097fc74ecfdda4e9
+      internalID: -8074570951803379615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_258
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1289
+        width: 98
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c565b392ae0a7749993e244396d5674
+      internalID: 3802231767902604241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_259
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1102
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe6978ad7da6f3479a9da370ef65478
+      internalID: 7077802693474035603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_260
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1102
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d01df25d6b1b8459448a60a570b056
+      internalID: -8717212245507317008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_261
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1108
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a849ff82c4e27fd42b2fe791d4612836
+      internalID: 7971979147059135636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_262
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1108
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f9f23433546e64aa54e033b6b3e24c
+      internalID: 989744337282511864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_263
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1100
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f66d94330150c439c761f7be6be321
+      internalID: 3448443535046585100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_264
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1098
+        width: 59
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6958020ce4290f54099550bfd5e74034
+      internalID: -1090952965763164578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_265
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 975
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862d6fa1c561f164a8d590d8c28f103f
+      internalID: -1582500235900304140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_266
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 975
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a337012e2572f0408efbe1035c49a4f
+      internalID: -7390504017695919958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_267
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 975
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60f337ff778a624f89e1d600f25594a
+      internalID: -4018508880888835388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_268
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 975
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eed17932c011f449a04e865d6c51148
+      internalID: -6339346560600187819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_269
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 976
+        width: 43
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297a81e8d4d1c9742a992d47af665e09
+      internalID: -1061779999027239442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_270
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 979
+        width: 72
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d23383be4466c8478f88de642997a21
+      internalID: 6865878803407059952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_271
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 979
+        width: 71
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3899c72b8baacc6419bf3693f15b1806
+      internalID: -5274011351499196719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_272
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 979
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90010320b4ac3994b96b68cf38f82733
+      internalID: -2299132827703633079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_273
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 974
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1ab59861c051e4fab5c60184d2203a
+      internalID: 7623403149715298989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_274
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 830
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253143c917d09114bba8d81bb09b710d
+      internalID: 7708327188105064508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_275
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 830
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d7554e5c3f1d2428ab03fadb5fbd29
+      internalID: 6423078593408758362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_276
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 836
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd563ff556ee884dafc42f1718ace1d
+      internalID: -7262851694395103057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_277
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 836
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3bd23f2d121df4fa2392e3bccee662
+      internalID: -7268345836924614302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_278
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 830
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c985e5ece21434fad7aeb9c53c0fa8
+      internalID: -5906696927222127079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_279
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 830
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b8976fb0007874180b5138d3192df3
+      internalID: 1655474272526822290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_280
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 702
+        width: 42
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff8f22a015ab304499c6e9eaa10a662
+      internalID: -565963856230325789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_281
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 702
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6793cfca7225c4f92b91e7d674ba9a
+      internalID: 8106444217287760571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_282
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 702
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d2055dd87ab4d418d9d9a1a9ed113a
+      internalID: 5411811914002394482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_283
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 702
+        width: 44
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065eef2b60a352e4aac0d7757e5e4785
+      internalID: -645760056897991598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_284
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 707
+        width: 51
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a041741f6a7ee429594326fa4296f9
+      internalID: -9164659038470506468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_285
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 702
+        width: 111
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fb200deefc7cf49828f5950e1cc731
+      internalID: 7865855190731858628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_286
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 702
+        width: 104
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdc97690bb296840aa41ed92d9ac79f
+      internalID: -1964533146989771692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_287
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 702
+        width: 95
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55a47511e9a6bc4a915ec42549afb29
+      internalID: -3772296177886782546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_288
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 702
+        width: 91
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c052b774b83804fba054b20a353646
+      internalID: -4805859131003324607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_289
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 702
+        width: 69
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d53c60ee2f0d1499909d04c1db52b2
+      internalID: 4020279991647088551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_290
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 704
+        width: 55
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d7f3a140be028468e2e4b8ea1afcb8
+      internalID: 7974496630276469613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_291
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 547
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8df1bc16c6ba6443bc065bfcf459b77
+      internalID: 5905564911670020891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_292
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 547
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577b9db97929202498b1d40f54d7697a
+      internalID: 3142113067867639705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_293
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 558
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d795037fa8387be48a6b2b175c07e4e9
+      internalID: -2637497196171664874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_294
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 558
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa65b70f26fb8c42b067f79217a8018
+      internalID: -5665689018029112602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_295
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 554
+        width: 56
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64860207f302c6a41949c592db0279c0
+      internalID: -5192433938352081632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_296
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 554
+        width: 53
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5187497c0144fe49853c833c61e1aea
+      internalID: -6325779898035826083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_297
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 413
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001edc8b86a653144bbec16700da3591
+      internalID: 3373630306697408685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_298
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 413
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3f1581ae7439e40909e4fa66b728c4
+      internalID: -7414594852840941738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_299
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 413
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a84e1a54990e9347b5b18b357a62972
+      internalID: -5653108511668775501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_300
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 413
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1174af596b873db41ac968bd56fa03a7
+      internalID: 7019829618497048671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_301
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 418
+        width: 77
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d09eb591eebeb54e8eaba47bed84472
+      internalID: -4068181731609238124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_302
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 415
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1337ad4d0bad94ea4eba294206fb66
+      internalID: 7245518717828167399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_303
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 405
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faacf1c322f5fc04495ee6c87b0d78f4
+      internalID: -3046645710904501200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_304
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 405
+        width: 85
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4777a0ded344bb142853b89376da3a25
+      internalID: 4252668563340869285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_305
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 405
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ac65d91c981684cbb6ed7f7055b2df
+      internalID: -4779925834994881092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_306
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 411
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912a839d733fe684383ee811616a2bcc
+      internalID: 1554048553053738441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_307
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 341
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796b26480460bf943bc3280f118d8eaf
+      internalID: -3780194988718597761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_308
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 341
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9185bc00735c92d4b85e6c2d7fe1001c
+      internalID: 1655780811494287890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_309
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 339
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e3eb209ecfb3848a5382194ca60b65
+      internalID: -7941214869126719463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_310
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 339
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57358ede91188984195620767b56907c
+      internalID: 3736138181208654727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_311
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 337
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a845bc0fda30bdc4baa1b89bb733b957
+      internalID: -5807903359394141162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_312
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 339
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc278b16ce94454ca6e1d0026dd9deb
+      internalID: -6928568860789584159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_313
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 331
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effc1dbd0385872458d57f00820a5347
+      internalID: -2592552497100454951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_314
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 333
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c53524a80a92b46ba52e440da19b45
+      internalID: 115009163010481704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_315
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 335
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f902c015c7aea848a1bc70b32dc2b79
+      internalID: -7370487574763902415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_316
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 337
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767f1f53b702390458f5ed7cc759b579
+      internalID: 4652278751777962207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_317
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 339
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436f51956e44fdd47a13abaf2f7eca16
+      internalID: -1361045909917315335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_318
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 150
+        width: 121
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939bd1c77a44d2f46a68b7e399e80695
+      internalID: -1237374900265932329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_319
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 150
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9917aceb5bd122459f9a41d894f9c3f
+      internalID: 4745718188360622805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_320
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 150
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7243717f1baab448e28f4b269f6449
+      internalID: 4115509326092267393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_321
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 150
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1020b528772d1e645bc0d16fd6e252bd
+      internalID: -4958423409101635518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_322
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 150
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da996bcd52f2c842a333ad8293032d3
+      internalID: -3496583584263628531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_323
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 150
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017bf41e6bab628468feb10ab89e28d1
+      internalID: 3186486941662608810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_324
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 150
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b3a9f30ecefdf4ca42665199eb1604
+      internalID: 7534276564935941655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_325
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 150
+        width: 51
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2631149489ef32a41a542958d60651b5
+      internalID: -4828170478188727018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_326
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 150
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59751c2843c71ea4f920aa6cf0649aaa
+      internalID: -64589770050071533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_327
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 150
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac9a63ed56dddc478e51dc780f424a2
+      internalID: -7143002206110067714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_328
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 150
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9115c223f5b11804180e9de69b4198a3
+      internalID: 3047969524799692159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_329
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 150
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70f3d551d2c8384c844c36528c8e6ac
+      internalID: 8192171042387478503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sasori_330
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 150
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e648c3bbd2b27b44ad818a38def3371
+      internalID: -1990029121421856541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 457b3a060567e9f478c80a96fb40705f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

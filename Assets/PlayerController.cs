@@ -44,6 +44,7 @@ public class PlayerController : MonoBehaviour
                 pos.x -= velocity;
                 sr.flipX = true;
             }
+            pos.x = Mathf.Clamp(pos.x, -10f, 10f);
             this.transform.position = pos;
             if(state != "Jump")
             {

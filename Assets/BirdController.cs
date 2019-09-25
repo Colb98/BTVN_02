@@ -15,13 +15,13 @@ public class BirdController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(transform.position.x < -20 || transform.position.x > 20)
+        if(transform.position.x < -15 || transform.position.x > 15)
         {
-            if (transform.position.x < -20)
+            if (transform.position.x < -15)
                 dx = 0.1f;
             else
                 dx = -0.1f;
-            sr.flipX = transform.position.x > 20;
+            sr.flipX = transform.position.x > 15;
         }
 
         Vector2 pos = transform.position;
